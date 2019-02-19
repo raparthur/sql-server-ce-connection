@@ -1,0 +1,9 @@
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\bin\Debug\GestorSqlServerCE.exe
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\bin\Debug\GestorSqlServerCE.pdb
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\bin\Debug\System.Data.SqlServerCe.dll
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.csprojResolveAssemblyReference.cache
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.Form1.resources
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.Properties.Resources.resources
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.csproj.GenerateResource.Cache
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.exe
+C:\csharp\GestorSqlServerCE\GestorSqlServerCE\obj\Debug\GestorSqlServerCE.pdb
